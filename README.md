@@ -27,3 +27,5 @@ This study was financed in part by the Coordenação de Aperfeiçoamento de Pess
   howpublished = {\url{https://github.com/awangenh/Segmentation-of-Microfossils-in-Carbonatic-Rocks}}
 }
 ```
+
+![banner Creative Commons INCoD UFSC](http://www.lapix.ufsc.br/wp-content/uploads/2019/05/cc.png)
