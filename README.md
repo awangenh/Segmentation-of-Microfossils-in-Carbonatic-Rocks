@@ -17,14 +17,13 @@ This study was financed in part by the Coordenação de Aperfeiçoamento de Pess
 
 ## Citing this Git
 
-```bibtex
-@misc{Charles2013,
-  author = {Charles, P.W.D.},
-  title = {Project Title},
-  year = {2013},
+```tex
+@misc{MicrofossilSegmentation2019,
+  author = {Carvalho, L.E. and von Wangenheim, A.},
+  title = {Semantic Segmentation of Microfossils in Carbonatic Rocks},
+  year = {2019},
   publisher = {GitHub},
   journal = {GitHub repository},
-  howpublished = {\url{https://github.com/charlespwd/project-title}},
-  commit = {4f57d6a0e4c030202a07a60bc1bb1ed1544bf679}
+  howpublished = {\url{https://github.com/awangenh/Segmentation-of-Microfossils-in-Carbonatic-Rocks}}
 }
 ```
