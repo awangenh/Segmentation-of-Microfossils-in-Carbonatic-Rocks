@@ -17,7 +17,7 @@ This study was financed in part by the Coordenação de Aperfeiçoamento de Pess
 
 ## Citing this Git
 
-```
+```bibtex
 @misc{Charles2013,
   author = {Charles, P.W.D.},
   title = {Project Title},
