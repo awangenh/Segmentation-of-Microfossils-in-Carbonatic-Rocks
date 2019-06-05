@@ -14,3 +14,17 @@ The dataset for this code can be found here: http://www.lapix.ufsc.br/microfossi
 
 ## Acknowledgments
 This study was financed in part by the Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Brasil (CAPES) - Finance Code 001 and by PETROBRAS through the research project number 902. There are no conflicts of interest.
+
+## Citing this Git
+
+```
+@misc{Charles2013,
+  author = {Charles, P.W.D.},
+  title = {Project Title},
+  year = {2013},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/charlespwd/project-title}},
+  commit = {4f57d6a0e4c030202a07a60bc1bb1ed1544bf679}
+}
+```
