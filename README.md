@@ -11,3 +11,6 @@ Institutional version@UFSC of this Git: https://codigos.ufsc.br/lapix/Segmentati
 The dataset for this code can be found here: http://www.lapix.ufsc.br/microfossil-segmentation
 
 ![banner microfossils](http://www.lapix.ufsc.br/wp-content/uploads/2019/03/ResultadoUnetResnet34-IOU76porcento3.png)
+
+## Acknowledgments
+This study was financed in part by the Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - Brasil (CAPES) - Finance Code 001 and by PETROBRAS through the research project number 902. There are no conflicts of interest.
